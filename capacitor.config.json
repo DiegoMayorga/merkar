@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Merkar",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
